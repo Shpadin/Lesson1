@@ -1,0 +1,15 @@
+G:\YandexDisk\Geek\Знакомство с языками программирования (лекции)\EXamples\EXampe001_HelloConsole\bin\Debug\net6.0\EXampe001_HelloConsole.exe
+G:\YandexDisk\Geek\Знакомство с языками программирования (лекции)\EXamples\EXampe001_HelloConsole\bin\Debug\net6.0\EXampe001_HelloConsole.deps.json
+G:\YandexDisk\Geek\Знакомство с языками программирования (лекции)\EXamples\EXampe001_HelloConsole\bin\Debug\net6.0\EXampe001_HelloConsole.runtimeconfig.json
+G:\YandexDisk\Geek\Знакомство с языками программирования (лекции)\EXamples\EXampe001_HelloConsole\bin\Debug\net6.0\EXampe001_HelloConsole.dll
+G:\YandexDisk\Geek\Знакомство с языками программирования (лекции)\EXamples\EXampe001_HelloConsole\bin\Debug\net6.0\EXampe001_HelloConsole.pdb
+G:\YandexDisk\Geek\Знакомство с языками программирования (лекции)\EXamples\EXampe001_HelloConsole\obj\Debug\net6.0\EXampe001_HelloConsole.csproj.AssemblyReference.cache
+G:\YandexDisk\Geek\Знакомство с языками программирования (лекции)\EXamples\EXampe001_HelloConsole\obj\Debug\net6.0\EXampe001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+G:\YandexDisk\Geek\Знакомство с языками программирования (лекции)\EXamples\EXampe001_HelloConsole\obj\Debug\net6.0\EXampe001_HelloConsole.AssemblyInfoInputs.cache
+G:\YandexDisk\Geek\Знакомство с языками программирования (лекции)\EXamples\EXampe001_HelloConsole\obj\Debug\net6.0\EXampe001_HelloConsole.AssemblyInfo.cs
+G:\YandexDisk\Geek\Знакомство с языками программирования (лекции)\EXamples\EXampe001_HelloConsole\obj\Debug\net6.0\EXampe001_HelloConsole.csproj.CoreCompileInputs.cache
+G:\YandexDisk\Geek\Знакомство с языками программирования (лекции)\EXamples\EXampe001_HelloConsole\obj\Debug\net6.0\EXampe001_HelloConsole.dll
+G:\YandexDisk\Geek\Знакомство с языками программирования (лекции)\EXamples\EXampe001_HelloConsole\obj\Debug\net6.0\refint\EXampe001_HelloConsole.dll
+G:\YandexDisk\Geek\Знакомство с языками программирования (лекции)\EXamples\EXampe001_HelloConsole\obj\Debug\net6.0\EXampe001_HelloConsole.pdb
+G:\YandexDisk\Geek\Знакомство с языками программирования (лекции)\EXamples\EXampe001_HelloConsole\obj\Debug\net6.0\EXampe001_HelloConsole.genruntimeconfig.cache
+G:\YandexDisk\Geek\Знакомство с языками программирования (лекции)\EXamples\EXampe001_HelloConsole\obj\Debug\net6.0\ref\EXampe001_HelloConsole.dll
